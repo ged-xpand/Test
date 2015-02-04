@@ -1,6 +1,6 @@
 <?php
 
 $code = "sdfdfs";
-//echo $code;
+echo $code;
 
 ?>
